@@ -2,6 +2,11 @@
 
 **AMAZON Alert Tracker** is a Python application that allows you to track product prices on Amazon and send email alerts when the price drops below a defined threshold. The user interface is built with `tkinter` for easy alert management.
 
+## Warning
+This application was developped for amazon.fr and may be ineffective on other places and in case of updates.
+
+## Prerequisites
+Vous devez avoir une adresse mail qui enverra vos alertes et qui soit accessible au script.
 ## Features
 
 - Track prices for multiple products.
