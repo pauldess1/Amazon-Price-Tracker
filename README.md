@@ -47,13 +47,13 @@ In the user interface, you can add multiple alerts by specifying:
 
 Here is an example of the email notification that will be sent when a price drops below the threshold:
 
-![Email Notification](./images/message.png)
+![Email Notification](./images/message.PNG)
 
 ### Examples
 
 Here is a screenshot of the user interface:
 
-![User Interface](./images/interface.png)
+![User Interface](./images/interface.PNG)
 
 ## Technologies Used
 
