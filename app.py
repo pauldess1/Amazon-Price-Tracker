@@ -8,7 +8,7 @@ from email.mime.text import MIMEText
 from bs4 import BeautifulSoup
 import time
 
-HEADERS = {"User-Agent": 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36'}
+HEADERS = {"User-Agent": 'YOUR USER-AGENT HERE'}
 
 class Alert:
     def __init__(self, url, user, receiver, password, threshold, interval):

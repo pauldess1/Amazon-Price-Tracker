@@ -9,6 +9,8 @@ This application was developped for amazon.fr and may be ineffective on other pl
 
 You need to have an email address that will send your alerts, and it must be accessible to the script. You will have to give the password (BE CAREFUL WHEN SHARING THE CODE !). I used Google App password to avoid this problem. 
 
+You will have to complete the header with your user-agent. You can get it by typing "My user agent" in your navigator.
+
 ## Features
 
 - Track prices for multiple products.
