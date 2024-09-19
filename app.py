@@ -7,8 +7,10 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from bs4 import BeautifulSoup
 import time
+import config
 
-HEADERS = {"User-Agent": 'YOUR USER-AGENT HERE'}
+
+HEADERS = config.headers
 
 class Alert:
     def __init__(self, url, user, receiver, password, threshold, interval):
